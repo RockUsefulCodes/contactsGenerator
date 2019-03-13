@@ -1,4 +1,4 @@
-package com.contacts;
+package com.contacts.generators;
 
 import java.io.File;
 import java.io.FileOutputStream;
